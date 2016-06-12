@@ -17,9 +17,11 @@
   "author": "Jan Amann <jan@amann.me>",
   "license": "MIT",
   "dependencies": {
+    "apollo-server": "^0.1.3",
     "express": "4.13.4",
     "express-cors": "0.0.3",
-    "graphql-tools": "^0.3.6",
+    "graphql": "^0.6.0",
+    "graphql-tools": "^0.6.0",
     "request-promise": "^3.0.0"
   },
   "devDependencies": {

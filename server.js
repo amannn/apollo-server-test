@@ -1,5 +1,5 @@
 import express from 'express';
-import { apolloServer } from 'graphql-tools';
+import { apolloServer } from 'apollo-server';
 import cors from 'express-cors';
 import Schema from './data/schema';
 import Resolvers from './data/resolvers';
